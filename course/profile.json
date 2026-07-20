@@ -1,0 +1,13 @@
+{
+  "description": "Profil 5min - Montée, faux-plat, descente",
+  "unit_time": "minutes",
+  "unit_alt": "meters",
+  "sommets": [
+    [0.0, 0],
+    [1.0, 15],
+    [2.0, 40],
+    [2.5, 40],
+    [3.5, 20],
+    [5.0, 5]
+  ]
+}
